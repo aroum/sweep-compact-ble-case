@@ -14,12 +14,14 @@ STL-file can be downloaded in [releases](https://github.com/aroum/sweep-compact-
 | [Magnets](https://aliexpress.ru/item/1005002757445161.html)   | 2-6      | disc 7x2 mm (for case)    |
 | [Bumpers](https://aliexpress.ru/item/4001188580018.html)      | 7        | 5x2 mm                    |
 
+# Rendered pictures
 ![front](_images/front.png)
 
 ![front](_images/front_with_pcb.png)
 
 ![back](_images/back.png)
 
+# Photos
 ![1](_images/1.jpg)
 ![2](_images/2.jpg)
 ![3](_images/3.jpg)
