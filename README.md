@@ -1,4 +1,6 @@
 # sweep-compact-ble-case
+[remix model](https://makerworld.com/en/models/3276433-sweep-compact-ble-case#profileId-3715812)
+
 3D model of the case for [sweep compact ble keyboard](https://github.com/davidphilipbarr/Sweep).
 
 PCB factory tolerances and 3D printer tolerances can be very different. Choose the optimal size by changing the scale and then the PCB will keep on friction or make the scale a little larger and use double-sided tape.
